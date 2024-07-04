@@ -1,5 +1,15 @@
 # Changelog
 
+## Release (2024-07-04)
+
+
+
+#### :house: Internal
+* [#1783](https://github.com/NullVoxPopuli/limber/pull/1783) Update deploy-preview.yml ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### Committers: 1
+- [@NullVoxPopuli](https://github.com/NullVoxPopuli)
+
 ## Release (2024-06-24)
 
 limber-ui 1.0.3 (patch)
